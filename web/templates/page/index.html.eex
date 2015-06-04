@@ -1,25 +1,12 @@
-<!DOCTYPE html>
-<head>
-<body>
-	<meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-	<link rel="stylesheet" href="/css/app.css">
-	<title>Url-ular</title>
-</head>
-	<div class="jumbotron">
-		<h2>Url-ular, The URL Shortener</h2>
-	</div>
+<div class="jumbotron">
+	<h2>Url-ular, The URL Shortener</h2>
+</div>
 
-	<div class="row marketing">
-		<div class="col-lg-6">
-			<h4>Enter a URL you would like to shorten:</h4>
-		</div>
-		<input style="width: 100%;" type="text" id="url"/>
-
-		<input type="button" value="Shorten!" id="button"/>
+<div class="row marketing">
+	<div class="col-lg-6">
+		<h4>Enter a URL you would like to shorten:</h4>
 	</div>
-</body>
-</html>
+	<input style="width: 100%;" type="text" id="url"/>
+
+	<input type="button" value="Shorten!" id="button"/>
+</div>
